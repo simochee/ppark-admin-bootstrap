@@ -1,0 +1,13 @@
+{
+  "name": "ppark-admin-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/simochee/ppark-admin-bootstrap.git",
+  "author": "Ryoya Tamura <simochee@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-aigis": "^1.3.0",
+    "node-aigis": "^1.4.1"
+  }
+}
